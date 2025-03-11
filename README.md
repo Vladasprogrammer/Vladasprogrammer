@@ -29,5 +29,5 @@ Currently, I’m deep into **React.js** at [Baltic Technology Institute](https:/
 
 ## 📬 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-voronin-59363432b/)  
-📧 **Email:** [Your Email Here]  
-💻 **Portfolio:** [Your Portfolio Link Here (if available)]  
+📧 **Email:** [voroninvlad3@gmail.com]
+
