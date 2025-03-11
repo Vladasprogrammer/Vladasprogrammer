@@ -12,9 +12,9 @@ Currently, I’m deep into **React.js** at [Baltic Technology Institute](https:/
 ---
 
 ## 🛤️ My Journey  
-- 💃 **From Dance to Code** – Before diving into web development, I worked as a **dance instructor**, guiding both casual learners and competitive dancers. Teaching taught me **patience, adaptability, and how to break down complex concepts**—all of which translate well into programming.  
+- 💃 **From Dance to Code** – My experience as a teacher and working in logistics taught me how to work under pressure, solve unexpected problems, and communicate effectively.  
 - 🚚 **Worked Across Europe** – My experience in **Germany and Norway** in delivery and logistics strengthened my **problem-solving, time management, and communication skills**.  
-- 🔧 **Expanding My Tech Stack** – In addition to front-end development, I’m planning to explore **PHP for backend development** to become a more well-rounded developer.  
+- 🔧 **Expanding My Tech Stack** – I will soon be learning **PHP** to expand into backend development.  
 
 ---
 
