@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, I'm Vlad!
 
 #### I’m an aspiring front-end developer with a background in teaching and working with people of all ages. I started my journey in programming to challenge myself and build things that people can use. Currently, I’m completing a React.js course at [Baltic Technology Institute](https://bit.lt/), where I’ve been learning how to create interactive and responsive web applications.
 
