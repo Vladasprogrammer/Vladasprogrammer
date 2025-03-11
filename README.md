@@ -6,6 +6,6 @@
 
 #### I’m always eager to improve, and in the near future, I plan to explore PHP for backend development to expand my skill set. I enjoy tackling challenges, learning new technologies, and working on projects that make an impact.
 
-📌 ### Looking for an internship or junior front-end developer position to apply my skills and grow in a professional environment.
+### 📌  Looking for an internship or junior front-end developer position to apply my skills and grow in a professional environment.
 
 📩 Let’s connect through [LinkedIn](https://www.linkedin.com/in/vladislav-voronin-59363432b/)
