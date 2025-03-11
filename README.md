@@ -1,11 +1,33 @@
-# Hi, I'm Vlad!
+# 👋 Hi, I'm Vlad!  
 
-#### I’m an aspiring front-end developer with a background in teaching and working with people of all ages. I started my journey in programming to challenge myself and build things that people can use. Currently, I’m completing a React.js course at [Baltic Technology Institute](https://bit.lt/), where I’ve been learning how to create interactive and responsive web applications.
+### 💻 Aspiring Front-End Developer | 🎭 Former Dance Instructor | 🌍 Lifelong Learner  
 
-#### Before diving into programming, I worked as a dance instructor, teaching both casual learners and professional dancers. I also gained experience working in various roles across different countries, including delivery and logistics in Germany and Norway. These experiences taught me adaptability, communication skills, and the ability to quickly learn and solve problems.
+I’m a passionate **front-end developer** transitioning from a background in **teaching and working with people of all ages**. My journey into programming started as a challenge, but it quickly turned into a passion for **building interactive and user-friendly web experiences**.  
 
-#### I’m always eager to improve, and in the near future, I plan to explore PHP for backend development to expand my skill set. I enjoy tackling challenges, learning new technologies, and working on projects that make an impact.
+Currently, I’m deep into **React.js** at [Baltic Technology Institute](https://bit.lt/), learning how to craft **responsive and dynamic web applications**.  
 
-### 📌  Looking for an internship or junior front-end developer position to apply my skills and grow in a professional environment.
+---
 
-📩 Let’s connect through [LinkedIn](https://www.linkedin.com/in/vladislav-voronin-59363432b/)
+## 🛤️ My Journey  
+- 💃 **From Dance to Code** – Before diving into web development, I worked as a **dance instructor**, guiding both casual learners and competitive dancers. Teaching taught me **patience, adaptability, and how to break down complex concepts**—all of which translate well into programming.  
+- 🚚 **Worked Across Europe** – My experience in **Germany and Norway** in delivery and logistics strengthened my **problem-solving, time management, and communication skills**.  
+- 🔧 **Expanding My Tech Stack** – In addition to front-end development, I’m planning to explore **PHP for backend development** to become a more well-rounded developer.  
+
+---
+
+## ✨ What I Love Building  
+✔ **Interactive & dynamic web applications**  
+✔ **User-friendly interfaces with clean UI/UX**  
+✔ **Projects that solve real-world problems**  
+
+---
+
+## 📌 Looking For  
+🚀 **Internship or Junior Front-End Developer Position** where I can **apply my skills, grow, and contribute to meaningful projects**.  
+
+---
+
+## 📬 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladislav-voronin-59363432b/)  
+📧 **Email:** [Your Email Here]  
+💻 **Portfolio:** [Your Portfolio Link Here (if available)]  
