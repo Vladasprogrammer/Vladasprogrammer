@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Vlad!  
 
-### 💻 Aspiring Front-End Developer | 🎭 Former Dance Instructor | 🌍 Lifelong Learner  
-
 I’m a passionate **front-end developer** transitioning from a background in **teaching and working with people of all ages**. My journey into programming started as a challenge, but it quickly turned into a passion for **building interactive and user-friendly web experiences**.  
 
 Currently, I’m deep into **React.js** at [Baltic Technology Institute](https://bit.lt/), learning how to craft **responsive and dynamic web applications**.  
