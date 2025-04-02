@@ -1,4 +1,4 @@
-<img src='https://github.com/Vladasprogrammer/VLadasprogrammer/blob/main/A%20winner%20is%20just%20a%20loser%20who%20tried%20one%20more%20time..png' alt='Vlad's banner as for the github phrase that stuck with me'>
+<img src="https://github.com/Vladasprogrammer/VLadasprogrammer/blob/main/A%20winner%20is%20just%20a%20loser%20who%20tried%20one%20more%20time..png" alt="Vlad's banner as for the github phrase that stuck with me">
 
 # 👋 Hi, I'm Vlad!  
 
