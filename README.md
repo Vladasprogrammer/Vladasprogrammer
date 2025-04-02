@@ -1,3 +1,5 @@
+<img src='https://github.com/Vladasprogrammer/VLadasprogrammer/blob/main/A%20winner%20is%20just%20a%20loser%20who%20tried%20one%20more%20time..png' alt='Vlad's banner as for the github phrase that stuck with me'>
+
 # 👋 Hi, I'm Vlad!  
 
 I’m a passionate **front-end developer** transitioning from a background in **teaching and working with people of all ages**. My journey into programming started as a challenge, but it quickly turned into a passion for **building interactive and user-friendly web experiences**.  
